@@ -1,3 +1,40 @@
-p {
-    text-align: center;
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.half-width {
+    width: 40%;
+    height: 700px;
+    float: left;
+    margin-left: 10%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.name-hignlight {
+    color: orange;
+}
+
+.margin-para {
+    margin-bottom: 50px;
+}
+
+#button-hier-me {
+    /* font-size: 20px; */
+    text-decoration: none;
+    background-color: rgb(250, 164, 4);
+    color: black;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
 }
