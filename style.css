@@ -2,23 +2,41 @@ body {
     margin: 0;
 }
 
-h1 {
+#h-color-blueviolet {
     font-size: 50px;
+    color: blueviolet;
+}
+
+#h-color-aqua {
+    font-size: 50px;
+    color: rgb(12, 94, 94);
 }
 
 h3 {
     font-size: 40px;
 }
 
-.half-width {
+.half-width-1 {
     width: 40%;
-    height: 700px;
+    height: 600px;
     float: left;
-    margin-left: 10%;
 }
 
-.half-width img {
+.half-width-2 {
+    width: 40%;
+    height: 600px;
+    float: left;
+    margin-left: 80px;
+}
+
+.half-width-1 img {
     width: 100%;
+    /* margin-right: 80px; */
+}
+
+.half-width-2 img {
+    width: 100%;
+    /* margin-left: 80px; */
 }
 
 .name-hignlight {
@@ -37,4 +55,19 @@ h3 {
     font-weight: 700;
     padding: 10px 20px;
     border-radius: 5px;
+}
+
+.top-banner {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#h-color-orange {
+    font-size: 50px;
+    color: orange;
+}
+
+.About-me {
+    margin-right: 10%;
+    margin-left: 10%;
 }
