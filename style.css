@@ -294,6 +294,9 @@ body {
 
 /* footer end */
 
+
+/* my skills start */
+
 #my-skills {
     height: 500px;
     width: 100%;
@@ -351,4 +354,26 @@ body {
 .DS {
     width: 90%;
     background-color: rgb(167, 155, 238);
+}
+
+
+/* my skill end */
+
+#extra-curricular-activity h1 {
+    margin-bottom: 5px;
+    margin-left: 25%;
+    color: orange;
+    font-size: 30px;
+}
+
+#extra-curricular-activity div {
+    margin-left: 400px;
+}
+
+iframe {
+    width: 700px;
+    height: 350px;
+    background-color: chartreuse;
+    padding: 3px;
+    border-radius: 5px;
 }
