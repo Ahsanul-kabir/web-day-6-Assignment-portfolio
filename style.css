@@ -154,6 +154,7 @@ h3 {
     border-radius: 10px;
     margin-top: 50px;
     background-color: aliceblue;
+    box-shadow: 10px 10px 40px gray;
 }
 
 .inside-div-latest-project img {
@@ -222,4 +223,32 @@ h3 {
     font-weight: 700;
     padding: 10px 20px;
     border-radius: 5px;
+}
+
+#footer {
+    height: 200px;
+    width: 100%;
+    border: 1 px solid red;
+}
+
+#h-div-footer-info {
+    color: rgb(48, 83, 11);
+    margin-left: 45%;
+}
+
+#a-div-footer-info {
+    text-decoration: none;
+    color: orchid;
+    margin-left: 40%;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#icon {
+    margin-left: 45%;
+}
+
+#icon img {
+    height: 30px;
+    width: 30px;
 }
