@@ -303,6 +303,9 @@ body {
 
 .main h1 {
     text-align: center;
+    color: chocolate;
+    font-weight: 700;
+    font-size: 50px;
 }
 
 .main h3 {
